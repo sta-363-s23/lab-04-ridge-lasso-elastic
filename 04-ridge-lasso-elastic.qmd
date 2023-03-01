@@ -1,0 +1,18 @@
+---
+title: "Lab 04 - Ridge, Lasso, Elastic Net"
+author: "Lucy D'Agostino McGowan"
+format: 
+  html:
+    self-contained: true
+editor: visual
+---
+
+### Load packages
+
+```{r load-packages, message = FALSE, warning = FALSE}
+library(tidyverse) 
+library(tidymodels)
+
+```
+
+### 
